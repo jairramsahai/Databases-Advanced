@@ -1,6 +1,6 @@
 sudo apt get-update
 sudo apt install docker.io
-docker --version
+sudo docker --version
 sudo systemctl status docker
 sudo docker run hello-world
 sudo docker images
